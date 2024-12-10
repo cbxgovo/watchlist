@@ -1,11 +1,7 @@
-
-
 激活虚拟环境：
 my_venv\Scripts\activate
 
 ---
-
-
 
 运行：
 (my_venv) D:\c_projects\Flask\241209_Flask\watchlist>flask run
@@ -19,3 +15,5 @@ flask run
 2
 
 3
+
+main
