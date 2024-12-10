@@ -1,0 +1,16 @@
+# 忽略后缀名为log的文件
+*.log
+
+# 忽略所有生成的可执行文件
+*.exe
+
+# 忽略build目录下的所有文件和文件夹
+/build/
+
+# 忽略config文件夹中的特定文件
+/config/database.yml
+
+*.pyc
+*~
+__pycache__
+.DS_Store
