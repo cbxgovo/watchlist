@@ -17,3 +17,5 @@ flask run
 3
 
 main
+
+local
